@@ -1,0 +1,4 @@
+
+
+将resources_cn.jar文件复制回.\Webstorm\lib目录。或是直接讲汉化包里面的resources_cn.jar复制到.\Webstorm\lib目录即可.
+
